@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#first{
+    height: 50vh;
+    background-image: url(/images/Backgrounds/bg_1.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+
+#second{
+    height: 100vh;
+    background-color: #f7f6f2
+}
+
+.cs_1{
+    background-color: white;
+}
+.form{
+    background-color: white;
+}

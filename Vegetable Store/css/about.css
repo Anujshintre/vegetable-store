@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#first{
+    height: 50vh;
+    background-image: url(/images/Backgrounds/bg_1.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.xxx{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    background-color:#f7f6f2 ;
+}
+#four{
+    height: 50vh;
+    background-image: url(/images/Backgrounds/bg_3.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+}
+#six{
+    background-color:#f7f6f2 ;
+}
+#se_1{
+    height: 150px;
+    width: 150px;
+    clip-path: ellipse(49% 50% at 50% 50%);
+    background-color:#e4b2d6;;
+}
+#t_1{
+    margin-top: 20px;
+    border: 1px solid white;
+    border-radius: 100%;
+    align-items: center;
+    height: 100px;
+}
+.tru{
+ font-size: 50px;
+}
+#se_2{
+    height: 150px;
+    width: 150px;
+    clip-path: ellipse(49% 50% at 50% 50%);
+    background-color:#dcc698;;
+}
+#se_3{
+    height: 150px;
+    width: 150px;
+    clip-path: ellipse(49% 50% at 50% 50%);
+    background-color:#a2d1e1;
+}
+#se_4{
+    height: 150px;
+    width: 150px;
+    clip-path: ellipse(49% 50% at 50% 50%);
+    background-color:#dcd691;
+}
+#se_1:hover{
+    background-color: #28a745;
+}
+#se_2:hover{
+    background-color: #28a745;
+}
+#se_3:hover{
+    background-color: #28a745;
+}
+#se_4:hover{
+    background-color: #28a745;
+}
